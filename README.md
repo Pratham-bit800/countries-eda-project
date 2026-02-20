@@ -115,5 +115,4 @@ As this is a beginner project, I plan to improve it by:
 ## 👨‍💻 Author
 
 Pratham Sindkar
-Beginner Data Analyst | Learning AI & ML  
 Year: 2026
