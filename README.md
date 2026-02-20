@@ -114,5 +114,5 @@ As this is a beginner project, I plan to improve it by:
 
 ## 👨‍💻 Author
 
-Pratham Sindkar\n
+Pratham Sindkar
 Year: 2026
